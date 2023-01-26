@@ -95,11 +95,6 @@ body {
   text-align: center;
   padding: 230px 0\9;
 }
-.champion i {
-  color: #a0a6a8;
-  font-size: 45px;
-  padding: 10px 0;
-}
 .round {
   display: block;
   float: left;
@@ -111,9 +106,9 @@ body {
   -webkit-flex-direction: column;
   flex-direction: column;
   width: 95%;
-  width: 30.8333%\9;
+  width: 130.8333%\9;
 }
-.split-two { <!--  --!
+.split-two { <!-- --!
 }
 .split-one .round {
   margin: 0 2.5% 0 0;
