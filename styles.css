@@ -113,7 +113,7 @@ body {
   width: 95%;
   width: 30.8333%\9;
 }
-.split-two {
+.split-two { <!-- --!
 }
 .split-one .round {
   margin: 0 2.5% 0 0;
@@ -170,10 +170,6 @@ body {
 .round li {
   background-color: #fff;
   box-shadow: none;
-  opacity: 0.45;
-}
-.current li {
-  opacity: 1;
 }
 .current li.team {
   background-color: #fff;
