@@ -108,7 +108,7 @@ body {
   width: 95%;
   width: 130.8333%\9;
 }
-.split-two { <!-- --!
+.split-two {
 }
 .split-one .round {
   margin: 0 2.5% 0 0;
@@ -168,7 +168,7 @@ body {
 }
 .current li.team {
   background-color: #fff;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 4px rgba(8, 8, 8, 0.1);
   opacity: 1;
 }
 .vote-options {
