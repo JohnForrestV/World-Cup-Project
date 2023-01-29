@@ -212,7 +212,6 @@ body {
     transform: scale(1);
   }
 }
-
 @keyframes pulse {
   0% {
     -webkit-transform: scale(1);
@@ -243,7 +242,6 @@ body {
   font-family: "Istok Web", sans-serif;
   color: #3f915f;
 }
-
 @media screen and (min-width: 981px) and (max-width: 1099px) {
   .container {
     margin: 0 1%;
@@ -264,7 +262,6 @@ body {
     margin: 5px 0 10px;
   }
 }
-
 @media screen and (max-width: 980px) {
   .container {
     -webkit-flex-direction: column;
@@ -298,7 +295,6 @@ body {
     font-size: 1em;
   }
 }
-
 @media screen and (max-width: 400px) {
   .split {
     width: 95%;
