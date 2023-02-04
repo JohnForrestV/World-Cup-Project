@@ -195,6 +195,10 @@ body {
   color: #fff;
   opacity: 0.35;
 }
+.winner {
+  color: gold;
+  font-size: large;
+}
 
 @-webkit-keyframes pulse {
   0% {
