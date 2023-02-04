@@ -20,7 +20,7 @@ body {
   margin: 0 0 20px;
   text-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
-  letter-spacing: -1px;
+  letter-spacing: 1px;
 }
 .hero p {
   font-family: "Abel", sans-serif;
