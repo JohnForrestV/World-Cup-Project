@@ -127,7 +127,7 @@ body {
   font-size: 12px;
   text-transform: uppercase;
   float: right;
-  color: #00b5d4;
+  color: #00d9ff;
   font-weight: bold;
   font-family: "Roboto Condensed", sans-serif;
   position: absolute;
@@ -155,7 +155,7 @@ body {
 .round-details {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 16px;
-  color: #00b5d4;
+  color: #00d9ff;
   text-transform: uppercase;
   text-align: center;
   height: 40px;
@@ -245,7 +245,7 @@ body {
   font-size: 12px;
   letter-spacing: 2px;
   font-family: "Istok Web", sans-serif;
-  color: #00df55;
+  color: #00ff62;
 }
 
 @media screen and (min-width: 981px) and (max-width: 1099px) {
