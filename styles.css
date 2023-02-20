@@ -94,7 +94,7 @@ body {
   align-self: center;
   margin-top: -15px;
   text-align: left;
-  padding: 235px 0\9;
+  padding: 23px 0\9;
 }
 .round {
   display: block;
@@ -106,7 +106,7 @@ body {
   display: flex;
   -webkit-flex-direction: column;
   flex-direction: column;
-  width: 60%;
+  width: 50%;
   width: 130.8333%\9;
 }
 .split-one .round {
