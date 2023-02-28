@@ -71,6 +71,10 @@ body {
   -webkit-flex-direction: row;
   flex-direction: row;
 }
+.container2 {
+  background-color: #000;
+}
+
 .split {
   display: block;
   float: left;
