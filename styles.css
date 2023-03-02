@@ -75,7 +75,8 @@ body {
 .container2 {
   display: flex;
   background-color: #000;
-  height: 100vh;
+  height: 20vh;
+  justify-content: center;
 }
 
 .split {
