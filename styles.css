@@ -132,7 +132,7 @@ body {
   transition: all 0.2s;
 }
 .score {
-  font-size: 12px;
+  font-size: 13px;
   text-transform: uppercase;
   float: right;
   color: #00d9ff;
