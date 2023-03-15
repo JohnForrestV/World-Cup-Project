@@ -92,7 +92,6 @@ body {
 }
 .champion {
   float: left;
-  display: block;
   width: 16%;
   -webkit-flex-direction: row;
   flex-direction: row;
@@ -103,7 +102,6 @@ body {
   padding: 230px 0\9;
 }
 .round {
-  display: block;
   float: left;
   display: -webkit-box;
   display: -moz-box;
@@ -176,7 +174,6 @@ body {
   opacity: 1;
 }
 .vote-options {
-  display: block;
   height: 52px;
 }
 .share .container {
