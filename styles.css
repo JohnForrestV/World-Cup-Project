@@ -62,7 +62,6 @@ body {
 .container {
   max-width: 1500px;
   margin: 0 auto;
-  display: block;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -80,7 +79,6 @@ body {
 }
 
 .split {
-  display: block;
   float: left;
   display: -webkit-box;
   display: -moz-box;
