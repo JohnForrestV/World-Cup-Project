@@ -76,6 +76,7 @@ body {
   background-color: #000;
   height: 20vh;
   justify-content: center;
+  margin-bottom: -3rem;
 }
 
 .split {
@@ -129,6 +130,7 @@ body {
 }
 .score {
   font-size: 13px;
+  font-weight: bolder;
   text-transform: uppercase;
   float: right;
   color: #00d9ff;
